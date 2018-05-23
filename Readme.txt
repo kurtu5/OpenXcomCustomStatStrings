@@ -1,0 +1,1 @@
+Install under user/mods.  Edit the python scrip to adjust your own preferred statstrings, rerun it and restart openxcom to see your new strings.

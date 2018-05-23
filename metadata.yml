@@ -1,0 +1,9 @@
+#
+# metadata.yaml for Art_StatStrings
+
+name: "Art: Boohina StatStrings"
+version: 1.0
+description: "StatStrings for most stats as well as overall soldier quality."
+author: "kurtu5"
+
+master: "*"
